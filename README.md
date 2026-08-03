@@ -24,8 +24,8 @@ To establish hands-on experience with cybersecurity and network tools
 | Project | Status |
 |---------|--------|
 | Enterprise Network | Completed |
-| Active Directory | In Progress |
-| Group Policy | Planned |
+| Active Directory | Completed |
+| Group Policy | In Progress |
 | Wazuh SIEM | Planned |
 | Sysmon Deployment | Planned |
 | Threat Hunting | Planned |
